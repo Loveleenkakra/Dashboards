@@ -1,2 +1,2 @@
 # Data-Cleaning
-Cleaning the raw data using SQL commands
+Created dashboards using Excel, Tableau and Power BI
